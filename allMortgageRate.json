@@ -1,0 +1,2076 @@
+[
+    {
+        "observationDate": 19710430,
+        "mortgageRate": 7.29
+    },
+
+    {
+        "observationDate": 19710813,
+        "mortgageRate": 7.73
+    },
+    {
+        "observationDate": 19721229,
+        "mortgageRate": 7.23
+    },
+    {
+        "observationDate": 19720114,
+        "mortgageRate": 7.46
+    },
+    {
+        "observationDate": 19730105,
+        "mortgageRate": 7.43
+    },
+    {
+        "observationDate": 19731228,
+        "mortgageRate": 8.85
+    },
+    {
+        "observationDate": 19740104,
+        "mortgageRate": 8.4
+    },
+    {
+        "observationDate": 19741227,
+        "mortgageRate": 10.03
+    },
+    {
+        "observationDate": 19750103,
+        "mortgageRate": 8.8
+    },
+    {
+        "observationDate": 19751226,
+        "mortgageRate": 9.6
+    },
+    {
+        "observationDate": 19760102,
+        "mortgageRate": 8.7
+    },
+    {
+        "observationDate": 19761231,
+        "mortgageRate": 9.1
+    },
+    {
+        "observationDate": 19770107,
+        "mortgageRate": 8.65
+    },
+    {
+        "observationDate": 19771230,
+        "mortgageRate": 9
+    },
+    {
+        "observationDate": 19780106,
+        "mortgageRate": 8.98
+    },
+    {
+        "observationDate": 19781229,
+        "mortgageRate": 10.38
+    },
+    {
+        "observationDate": 19790105,
+        "mortgageRate": 10.38
+    },
+    {
+        "observationDate": 19791228,
+        "mortgageRate": 12.9
+    },
+    {
+        "observationDate": 19800104,
+        "mortgageRate": 12.18
+    },
+    {
+        "observationDate": 19801226,
+        "mortgageRate": 16.35
+    },
+    {
+        "observationDate": 19810102,
+        "mortgageRate": 14.8
+    },
+    {
+        "observationDate": 19811231,
+        "mortgageRate": 18.63
+    },
+    {
+        "observationDate": 19820108,
+        "mortgageRate": 13.57
+    },
+    {
+        "observationDate": 19821231,
+        "mortgageRate": 17.66
+    },
+    {
+        "observationDate": 19830107,
+        "mortgageRate": 12.55
+    },
+    {
+        "observationDate": 19831230,
+        "mortgageRate": 13.89
+    },
+    {
+        "observationDate": 19840106,
+        "mortgageRate": 13.14
+    },
+    {
+        "observationDate": 19841228,
+        "mortgageRate": 14.68
+    },
+    {
+        "observationDate": 19850104,
+        "mortgageRate": 11.09
+    },
+    {
+        "observationDate": 19851227,
+        "mortgageRate": 13.29
+    },
+    {
+        "observationDate": 19860103,
+        "mortgageRate": 9.29
+    },
+    {
+        "observationDate": 19861226,
+        "mortgageRate": 10.99
+    },
+    {
+        "observationDate": 19870102,
+        "mortgageRate": 9.03
+    },
+    {
+        "observationDate": 19871231,
+        "mortgageRate": 11.58
+    },
+    {
+        "observationDate": 19880108,
+        "mortgageRate": 9.84
+    },
+    {
+        "observationDate": 19881230,
+        "mortgageRate": 10.77
+    },
+    {
+        "observationDate": 19890106,
+        "mortgageRate": 9.68
+    },
+    {
+        "observationDate": 19891229,
+        "mortgageRate": 11.22
+    },
+    {
+        "observationDate": 19900105,
+        "mortgageRate": 9.56
+    },
+    {
+        "observationDate": 19901228,
+        "mortgageRate": 10.67
+    },
+    {
+        "observationDate": 19910104,
+        "mortgageRate": 8.35
+    },
+    {
+        "observationDate": 19911227,
+        "mortgageRate": 9.75
+    },
+    {
+        "observationDate": 19920103,
+        "mortgageRate": 7.84
+    },
+    {
+        "observationDate": 19921231,
+        "mortgageRate": 9.03
+    },
+    {
+        "observationDate": 19930108,
+        "mortgageRate": 6.74
+    },
+    {
+        "observationDate": 19931231,
+        "mortgageRate": 8.07
+    },
+    {
+        "observationDate": 19940107,
+        "mortgageRate": 6.97
+    },
+    {
+        "observationDate": 19941230,
+        "mortgageRate": 9.25
+    },
+    {
+        "observationDate": 19950106,
+        "mortgageRate": 7.11
+    },
+    {
+        "observationDate": 19951229,
+        "mortgageRate": 9.22
+    },
+    {
+        "observationDate": 19960105,
+        "mortgageRate": 6.94
+    },
+    {
+        "observationDate": 19961227,
+        "mortgageRate": 8.42
+    },
+    {
+        "observationDate": 19970103,
+        "mortgageRate": 6.99
+    },
+    {
+        "observationDate": 19971226,
+        "mortgageRate": 8.18
+    },
+    {
+        "observationDate": 19980102,
+        "mortgageRate": 6.49
+    },
+    {
+        "observationDate": 19981231,
+        "mortgageRate": 6.83
+    },
+    {
+        "observationDate": 19990108,
+        "mortgageRate": 6.74
+    },
+    {
+        "observationDate": 19991231,
+        "mortgageRate": 8.15
+    },
+    {
+        "observationDate": 20000107,
+        "mortgageRate": 7.13
+    },
+    {
+        "observationDate": 20001229,
+        "mortgageRate": 8.64
+    },
+    {
+        "observationDate": 20010105,
+        "mortgageRate": 6.45
+    },
+    {
+        "observationDate": 20011228,
+        "mortgageRate": 7.24
+    },
+    {
+        "observationDate": 20020104,
+        "mortgageRate": 5.93
+    },
+    {
+        "observationDate": 20021227,
+        "mortgageRate": 7.18
+    },
+    {
+        "observationDate": 20030103,
+        "mortgageRate": 5.21
+    },
+    {
+        "observationDate": 20031231,
+        "mortgageRate": 6.44
+    },
+    {
+        "observationDate": 20040108,
+        "mortgageRate": 5.38
+    },
+    {
+        "observationDate": 20041229,
+        "mortgageRate": 6.34
+    },
+    {
+        "observationDate": 20050106,
+        "mortgageRate": 5.66
+    },
+    {
+        "observationDate": 20050127,
+        "mortgageRate": 5.77
+    },
+    {
+        "observationDate": 20050203,
+        "mortgageRate": 5.57
+    },
+    {
+        "observationDate": 20050224,
+        "mortgageRate": 5.69
+    },
+    {
+        "observationDate": 20050303,
+        "mortgageRate": 5.79
+    },
+    {
+        "observationDate": 20050331,
+        "mortgageRate": 6.04
+    },
+    {
+        "observationDate": 20050407,
+        "mortgageRate": 5.78
+    },
+    {
+        "observationDate": 20050428,
+        "mortgageRate": 5.93
+    },
+    {
+        "observationDate": 20050505,
+        "mortgageRate": 5.65
+    },
+    {
+        "observationDate": 20050526,
+        "mortgageRate": 5.77
+    },
+    {
+        "observationDate": 20050602,
+        "mortgageRate": 5.53
+    },
+    {
+        "observationDate": 20050630,
+        "mortgageRate": 5.63
+    },
+    {
+        "observationDate": 20050707,
+        "mortgageRate": 5.62
+    },
+    {
+        "observationDate": 20050728,
+        "mortgageRate": 5.77
+    },
+    {
+        "observationDate": 20050804,
+        "mortgageRate": 5.77
+    },
+    {
+        "observationDate": 20050825,
+        "mortgageRate": 5.89
+    },
+    {
+        "observationDate": 20050901,
+        "mortgageRate": 5.71
+    },
+    {
+        "observationDate": 20050929,
+        "mortgageRate": 5.91
+    },
+    {
+        "observationDate": 20051006,
+        "mortgageRate": 5.98
+    },
+    {
+        "observationDate": 20051027,
+        "mortgageRate": 6.15
+    },
+    {
+        "observationDate": 20051103,
+        "mortgageRate": 6.28
+    },
+    {
+        "observationDate": 20051123,
+        "mortgageRate": 6.37
+    },
+    {
+        "observationDate": 20051201,
+        "mortgageRate": 6.22
+    },
+    {
+        "observationDate": 20051229,
+        "mortgageRate": 6.32
+    },
+    {
+        "observationDate": 20060105,
+        "mortgageRate": 6.1
+    },
+    {
+        "observationDate": 20060126,
+        "mortgageRate": 6.21
+    },
+    {
+        "observationDate": 20060202,
+        "mortgageRate": 6.23
+    },
+    {
+        "observationDate": 20060223,
+        "mortgageRate": 6.28
+    },
+    {
+        "observationDate": 20060302,
+        "mortgageRate": 6.24
+    },
+    {
+        "observationDate": 20060330,
+        "mortgageRate": 6.37
+    },
+    {
+        "observationDate": 20060406,
+        "mortgageRate": 6.43
+    },
+    {
+        "observationDate": 20060427,
+        "mortgageRate": 6.58
+    },
+    {
+        "observationDate": 20060504,
+        "mortgageRate": 6.58
+    },
+    {
+        "observationDate": 20060525,
+        "mortgageRate": 6.62
+    },
+    {
+        "observationDate": 20060601,
+        "mortgageRate": 6.62
+    },
+    {
+        "observationDate": 20060629,
+        "mortgageRate": 6.78
+    },
+    {
+        "observationDate": 20060706,
+        "mortgageRate": 6.72
+    },
+    {
+        "observationDate": 20060727,
+        "mortgageRate": 6.8
+    },
+    {
+        "observationDate": 20060803,
+        "mortgageRate": 6.44
+    },
+    {
+        "observationDate": 20060831,
+        "mortgageRate": 6.63
+    },
+    {
+        "observationDate": 20060907,
+        "mortgageRate": 6.31
+    },
+    {
+        "observationDate": 20060928,
+        "mortgageRate": 6.47
+    },
+    {
+        "observationDate": 20061005,
+        "mortgageRate": 6.3
+    },
+    {
+        "observationDate": 20061026,
+        "mortgageRate": 6.4
+    },
+    {
+        "observationDate": 20061102,
+        "mortgageRate": 6.14
+    },
+    {
+        "observationDate": 20061130,
+        "mortgageRate": 6.33
+    },
+    {
+        "observationDate": 20061207,
+        "mortgageRate": 6.11
+    },
+    {
+        "observationDate": 20061228,
+        "mortgageRate": 6.18
+    },
+    {
+        "observationDate": 20070104,
+        "mortgageRate": 6.18
+    },
+    {
+        "observationDate": 20070125,
+        "mortgageRate": 6.25
+    },
+    {
+        "observationDate": 20070201,
+        "mortgageRate": 6.22
+    },
+    {
+        "observationDate": 20070222,
+        "mortgageRate": 6.34
+    },
+    {
+        "observationDate": 20070301,
+        "mortgageRate": 6.14
+    },
+    {
+        "observationDate": 20070329,
+        "mortgageRate": 6.18
+    },
+    {
+        "observationDate": 20070405,
+        "mortgageRate": 6.16
+    },
+    {
+        "observationDate": 20070426,
+        "mortgageRate": 6.22
+    },
+    {
+        "observationDate": 20070503,
+        "mortgageRate": 6.15
+    },
+    {
+        "observationDate": 20070531,
+        "mortgageRate": 6.42
+    },
+    {
+        "observationDate": 20070607,
+        "mortgageRate": 6.53
+    },
+    {
+        "observationDate": 20070628,
+        "mortgageRate": 6.74
+    },
+    {
+        "observationDate": 20070705,
+        "mortgageRate": 6.63
+    },
+    {
+        "observationDate": 20070726,
+        "mortgageRate": 6.73
+    },
+    {
+        "observationDate": 20070802,
+        "mortgageRate": 6.45
+    },
+    {
+        "observationDate": 20070830,
+        "mortgageRate": 6.68
+    },
+    {
+        "observationDate": 20070906,
+        "mortgageRate": 6.31
+    },
+    {
+        "observationDate": 20070927,
+        "mortgageRate": 6.46
+    },
+    {
+        "observationDate": 20071004,
+        "mortgageRate": 6.33
+    },
+    {
+        "observationDate": 20071025,
+        "mortgageRate": 6.4
+    },
+    {
+        "observationDate": 20071101,
+        "mortgageRate": 6.1
+    },
+    {
+        "observationDate": 20071129,
+        "mortgageRate": 6.26
+    },
+    {
+        "observationDate": 20071206,
+        "mortgageRate": 5.96
+    },
+    {
+        "observationDate": 20071227,
+        "mortgageRate": 6.17
+    },
+    {
+        "observationDate": 20080103,
+        "mortgageRate": 5.48
+    },
+    {
+        "observationDate": 20080131,
+        "mortgageRate": 6.07
+    },
+    {
+        "observationDate": 20080207,
+        "mortgageRate": 5.67
+    },
+    {
+        "observationDate": 20080228,
+        "mortgageRate": 6.24
+    },
+    {
+        "observationDate": 20080306,
+        "mortgageRate": 5.85
+    },
+    {
+        "observationDate": 20080327,
+        "mortgageRate": 6.13
+    },
+    {
+        "observationDate": 20080403,
+        "mortgageRate": 5.88
+    },
+    {
+        "observationDate": 20080424,
+        "mortgageRate": 6.03
+    },
+    {
+        "observationDate": 20080501,
+        "mortgageRate": 5.98
+    },
+    {
+        "observationDate": 20080529,
+        "mortgageRate": 6.08
+    },
+    {
+        "observationDate": 20080605,
+        "mortgageRate": 6.09
+    },
+    {
+        "observationDate": 20080626,
+        "mortgageRate": 6.45
+    },
+    {
+        "observationDate": 20080703,
+        "mortgageRate": 6.26
+    },
+    {
+        "observationDate": 20080731,
+        "mortgageRate": 6.63
+    },
+    {
+        "observationDate": 20080807,
+        "mortgageRate": 6.4
+    },
+    {
+        "observationDate": 20080828,
+        "mortgageRate": 6.52
+    },
+    {
+        "observationDate": 20080904,
+        "mortgageRate": 5.78
+    },
+    {
+        "observationDate": 20080925,
+        "mortgageRate": 6.35
+    },
+    {
+        "observationDate": 20081002,
+        "mortgageRate": 5.94
+    },
+    {
+        "observationDate": 20081030,
+        "mortgageRate": 6.46
+    },
+    {
+        "observationDate": 20081106,
+        "mortgageRate": 5.97
+    },
+    {
+        "observationDate": 20081126,
+        "mortgageRate": 6.2
+    },
+    {
+        "observationDate": 20081204,
+        "mortgageRate": 5.1
+    },
+    {
+        "observationDate": 20081231,
+        "mortgageRate": 5.53
+    },
+    {
+        "observationDate": 20090108,
+        "mortgageRate": 4.96
+    },
+    {
+        "observationDate": 20090129,
+        "mortgageRate": 5.12
+    },
+    {
+        "observationDate": 20090205,
+        "mortgageRate": 5.04
+    },
+    {
+        "observationDate": 20090226,
+        "mortgageRate": 5.25
+    },
+    {
+        "observationDate": 20090305,
+        "mortgageRate": 4.85
+    },
+    {
+        "observationDate": 20090326,
+        "mortgageRate": 5.15
+    },
+    {
+        "observationDate": 20090402,
+        "mortgageRate": 4.78
+    },
+    {
+        "observationDate": 20090430,
+        "mortgageRate": 4.87
+    },
+    {
+        "observationDate": 20090507,
+        "mortgageRate": 4.82
+    },
+    {
+        "observationDate": 20090528,
+        "mortgageRate": 4.91
+    },
+    {
+        "observationDate": 20090604,
+        "mortgageRate": 5.29
+    },
+    {
+        "observationDate": 20090625,
+        "mortgageRate": 5.59
+    },
+    {
+        "observationDate": 20090702,
+        "mortgageRate": 5.14
+    },
+    {
+        "observationDate": 20090730,
+        "mortgageRate": 5.32
+    },
+    {
+        "observationDate": 20090806,
+        "mortgageRate": 5.12
+    },
+    {
+        "observationDate": 20090827,
+        "mortgageRate": 5.29
+    },
+    {
+        "observationDate": 20090903,
+        "mortgageRate": 5.04
+    },
+    {
+        "observationDate": 20090924,
+        "mortgageRate": 5.08
+    },
+    {
+        "observationDate": 20091001,
+        "mortgageRate": 4.87
+    },
+    {
+        "observationDate": 20091029,
+        "mortgageRate": 5.03
+    },
+    {
+        "observationDate": 20091105,
+        "mortgageRate": 4.78
+    },
+    {
+        "observationDate": 20091125,
+        "mortgageRate": 4.98
+    },
+    {
+        "observationDate": 20091203,
+        "mortgageRate": 4.71
+    },
+    {
+        "observationDate": 20091231,
+        "mortgageRate": 5.14
+    },
+    {
+        "observationDate": 20100107,
+        "mortgageRate": 4.98
+    },
+    {
+        "observationDate": 20100128,
+        "mortgageRate": 5.09
+    },
+    {
+        "observationDate": 20100204,
+        "mortgageRate": 4.93
+    },
+    {
+        "observationDate": 20100225,
+        "mortgageRate": 5.05
+    },
+    {
+        "observationDate": 20100304,
+        "mortgageRate": 4.95
+    },
+    {
+        "observationDate": 20100325,
+        "mortgageRate": 4.99
+    },
+    {
+        "observationDate": 20100401,
+        "mortgageRate": 5.06
+    },
+    {
+        "observationDate": 20100429,
+        "mortgageRate": 5.21
+    },
+    {
+        "observationDate": 20100506,
+        "mortgageRate": 4.78
+    },
+    {
+        "observationDate": 20100527,
+        "mortgageRate": 5
+    },
+    {
+        "observationDate": 20100603,
+        "mortgageRate": 4.69
+    },
+    {
+        "observationDate": 20100624,
+        "mortgageRate": 4.79
+    },
+    {
+        "observationDate": 20100701,
+        "mortgageRate": 4.54
+    },
+    {
+        "observationDate": 20100729,
+        "mortgageRate": 4.58
+    },
+    {
+        "observationDate": 20100805,
+        "mortgageRate": 4.36
+    },
+    {
+        "observationDate": 20100826,
+        "mortgageRate": 4.49
+    },
+    {
+        "observationDate": 20100902,
+        "mortgageRate": 4.32
+    },
+    {
+        "observationDate": 20100930,
+        "mortgageRate": 4.37
+    },
+    {
+        "observationDate": 20101007,
+        "mortgageRate": 4.19
+    },
+    {
+        "observationDate": 20101028,
+        "mortgageRate": 4.27
+    },
+    {
+        "observationDate": 20101104,
+        "mortgageRate": 4.17
+    },
+    {
+        "observationDate": 20101124,
+        "mortgageRate": 4.4
+    },
+    {
+        "observationDate": 20101202,
+        "mortgageRate": 4.46
+    },
+    {
+        "observationDate": 20101230,
+        "mortgageRate": 4.86
+    },
+    {
+        "observationDate": 20110106,
+        "mortgageRate": 4.71
+    },
+    {
+        "observationDate": 20110127,
+        "mortgageRate": 4.8
+    },
+    {
+        "observationDate": 20110203,
+        "mortgageRate": 4.81
+    },
+    {
+        "observationDate": 20110224,
+        "mortgageRate": 5.05
+    },
+    {
+        "observationDate": 20110303,
+        "mortgageRate": 4.76
+    },
+    {
+        "observationDate": 20110331,
+        "mortgageRate": 4.88
+    },
+    {
+        "observationDate": 20110407,
+        "mortgageRate": 4.78
+    },
+    {
+        "observationDate": 20110428,
+        "mortgageRate": 4.91
+    },
+    {
+        "observationDate": 20110505,
+        "mortgageRate": 4.6
+    },
+    {
+        "observationDate": 20110526,
+        "mortgageRate": 4.71
+    },
+    {
+        "observationDate": 20110602,
+        "mortgageRate": 4.49
+    },
+    {
+        "observationDate": 20110630,
+        "mortgageRate": 4.55
+    },
+    {
+        "observationDate": 20110707,
+        "mortgageRate": 4.51
+    },
+    {
+        "observationDate": 20110728,
+        "mortgageRate": 4.6
+    },
+    {
+        "observationDate": 20110804,
+        "mortgageRate": 4.15
+    },
+    {
+        "observationDate": 20110825,
+        "mortgageRate": 4.39
+    },
+    {
+        "observationDate": 20110901,
+        "mortgageRate": 4.01
+    },
+    {
+        "observationDate": 20110929,
+        "mortgageRate": 4.22
+    },
+    {
+        "observationDate": 20111006,
+        "mortgageRate": 3.94
+    },
+    {
+        "observationDate": 20111027,
+        "mortgageRate": 4.12
+    },
+    {
+        "observationDate": 20111103,
+        "mortgageRate": 3.98
+    },
+    {
+        "observationDate": 20111123,
+        "mortgageRate": 4
+    },
+    {
+        "observationDate": 20111201,
+        "mortgageRate": 3.91
+    },
+    {
+        "observationDate": 20111229,
+        "mortgageRate": 4
+    },
+    {
+        "observationDate": 20120105,
+        "mortgageRate": 3.88
+    },
+    {
+        "observationDate": 20120126,
+        "mortgageRate": 3.98
+    },
+    {
+        "observationDate": 20120202,
+        "mortgageRate": 3.87
+    },
+    {
+        "observationDate": 20120223,
+        "mortgageRate": 3.95
+    },
+    {
+        "observationDate": 20120301,
+        "mortgageRate": 3.88
+    },
+    {
+        "observationDate": 20120322,
+        "mortgageRate": 4.08
+    },
+    {
+        "observationDate": 20120405,
+        "mortgageRate": 3.88
+    },
+    {
+        "observationDate": 20120426,
+        "mortgageRate": 3.98
+    },
+    {
+        "observationDate": 20120503,
+        "mortgageRate": 3.75
+    },
+    {
+        "observationDate": 20120531,
+        "mortgageRate": 3.84
+    },
+    {
+        "observationDate": 20120607,
+        "mortgageRate": 3.66
+    },
+    {
+        "observationDate": 20120628,
+        "mortgageRate": 3.71
+    },
+    {
+        "observationDate": 20120705,
+        "mortgageRate": 3.49
+    },
+    {
+        "observationDate": 20120726,
+        "mortgageRate": 3.62
+    },
+    {
+        "observationDate": 20120802,
+        "mortgageRate": 3.55
+    },
+    {
+        "observationDate": 20120830,
+        "mortgageRate": 3.66
+    },
+    {
+        "observationDate": 20120906,
+        "mortgageRate": 3.4
+    },
+    {
+        "observationDate": 20120927,
+        "mortgageRate": 3.55
+    },
+    {
+        "observationDate": 20121004,
+        "mortgageRate": 3.36
+    },
+    {
+        "observationDate": 20121025,
+        "mortgageRate": 3.41
+    },
+    {
+        "observationDate": 20121101,
+        "mortgageRate": 3.31
+    },
+    {
+        "observationDate": 20121129,
+        "mortgageRate": 3.4
+    },
+    {
+        "observationDate": 20121206,
+        "mortgageRate": 3.32
+    },
+    {
+        "observationDate": 20121227,
+        "mortgageRate": 3.37
+    },
+    {
+        "observationDate": 20130103,
+        "mortgageRate": 3.34
+    },
+    {
+        "observationDate": 20130131,
+        "mortgageRate": 3.53
+    },
+    {
+        "observationDate": 20130207,
+        "mortgageRate": 3.51
+    },
+    {
+        "observationDate": 20130228,
+        "mortgageRate": 3.56
+    },
+    {
+        "observationDate": 20130307,
+        "mortgageRate": 3.52
+    },
+    {
+        "observationDate": 20130328,
+        "mortgageRate": 3.63
+    },
+    {
+        "observationDate": 20130404,
+        "mortgageRate": 3.4
+    },
+    {
+        "observationDate": 20130425,
+        "mortgageRate": 3.54
+    },
+    {
+        "observationDate": 20130502,
+        "mortgageRate": 3.35
+    },
+    {
+        "observationDate": 20130530,
+        "mortgageRate": 3.81
+    },
+    {
+        "observationDate": 20130606,
+        "mortgageRate": 3.91
+    },
+    {
+        "observationDate": 20130627,
+        "mortgageRate": 4.46
+    },
+    {
+        "observationDate": 20130703,
+        "mortgageRate": 4.29
+    },
+    {
+        "observationDate": 20130725,
+        "mortgageRate": 4.51
+    },
+    {
+        "observationDate": 20130801,
+        "mortgageRate": 4.39
+    },
+    {
+        "observationDate": 20130829,
+        "mortgageRate": 4.58
+    },
+    {
+        "observationDate": 20130905,
+        "mortgageRate": 4.32
+    },
+    {
+        "observationDate": 20130926,
+        "mortgageRate": 4.57
+    },
+    {
+        "observationDate": 20131003,
+        "mortgageRate": 4.1
+    },
+    {
+        "observationDate": 20131031,
+        "mortgageRate": 4.28
+    },
+    {
+        "observationDate": 20131107,
+        "mortgageRate": 4.16
+    },
+    {
+        "observationDate": 20131127,
+        "mortgageRate": 4.35
+    },
+    {
+        "observationDate": 20131205,
+        "mortgageRate": 4.42
+    },
+    {
+        "observationDate": 20131226,
+        "mortgageRate": 4.48
+    },
+    {
+        "observationDate": 20140102,
+        "mortgageRate": 4.32
+    },
+    {
+        "observationDate": 20140130,
+        "mortgageRate": 4.53
+    },
+    {
+        "observationDate": 20140206,
+        "mortgageRate": 4.23
+    },
+    {
+        "observationDate": 20140227,
+        "mortgageRate": 4.37
+    },
+    {
+        "observationDate": 20140306,
+        "mortgageRate": 4.28
+    },
+    {
+        "observationDate": 20140327,
+        "mortgageRate": 4.4
+    },
+    {
+        "observationDate": 20140403,
+        "mortgageRate": 4.27
+    },
+    {
+        "observationDate": 20140424,
+        "mortgageRate": 4.41
+    },
+    {
+        "observationDate": 20140501,
+        "mortgageRate": 4.12
+    },
+    {
+        "observationDate": 20140529,
+        "mortgageRate": 4.29
+    },
+    {
+        "observationDate": 20140605,
+        "mortgageRate": 4.14
+    },
+    {
+        "observationDate": 20140626,
+        "mortgageRate": 4.2
+    },
+    {
+        "observationDate": 20140703,
+        "mortgageRate": 4.12
+    },
+    {
+        "observationDate": 20140731,
+        "mortgageRate": 4.15
+    },
+    {
+        "observationDate": 20140807,
+        "mortgageRate": 4.1
+    },
+    {
+        "observationDate": 20140828,
+        "mortgageRate": 4.14
+    },
+    {
+        "observationDate": 20140904,
+        "mortgageRate": 4.1
+    },
+    {
+        "observationDate": 20140925,
+        "mortgageRate": 4.23
+    },
+    {
+        "observationDate": 20141002,
+        "mortgageRate": 3.92
+    },
+    {
+        "observationDate": 20141030,
+        "mortgageRate": 4.19
+    },
+    {
+        "observationDate": 20141106,
+        "mortgageRate": 3.97
+    },
+    {
+        "observationDate": 20141126,
+        "mortgageRate": 4.02
+    },
+    {
+        "observationDate": 20141204,
+        "mortgageRate": 3.8
+    },
+    {
+        "observationDate": 20141231,
+        "mortgageRate": 3.93
+    },
+    {
+        "observationDate": 20150108,
+        "mortgageRate": 3.63
+    },
+    {
+        "observationDate": 20150129,
+        "mortgageRate": 3.73
+    },
+    {
+        "observationDate": 20150205,
+        "mortgageRate": 3.59
+    },
+    {
+        "observationDate": 20150226,
+        "mortgageRate": 3.8
+    },
+    {
+        "observationDate": 20150305,
+        "mortgageRate": 3.69
+    },
+    {
+        "observationDate": 20150326,
+        "mortgageRate": 3.86
+    },
+    {
+        "observationDate": 20150402,
+        "mortgageRate": 3.65
+    },
+    {
+        "observationDate": 20150430,
+        "mortgageRate": 3.7
+    },
+    {
+        "observationDate": 20150507,
+        "mortgageRate": 3.8
+    },
+    {
+        "observationDate": 20150528,
+        "mortgageRate": 3.87
+    },
+    {
+        "observationDate": 20150604,
+        "mortgageRate": 3.87
+    },
+    {
+        "observationDate": 20150625,
+        "mortgageRate": 4.04
+    },
+    {
+        "observationDate": 20150702,
+        "mortgageRate": 3.98
+    },
+    {
+        "observationDate": 20150730,
+        "mortgageRate": 4.09
+    },
+    {
+        "observationDate": 20150806,
+        "mortgageRate": 3.84
+    },
+    {
+        "observationDate": 20150827,
+        "mortgageRate": 3.94
+    },
+    {
+        "observationDate": 20150903,
+        "mortgageRate": 3.86
+    },
+    {
+        "observationDate": 20150924,
+        "mortgageRate": 3.91
+    },
+    {
+        "observationDate": 20151001,
+        "mortgageRate": 3.76
+    },
+    {
+        "observationDate": 20151029,
+        "mortgageRate": 3.85
+    },
+    {
+        "observationDate": 20151105,
+        "mortgageRate": 3.87
+    },
+    {
+        "observationDate": 20151125,
+        "mortgageRate": 3.98
+    },
+    {
+        "observationDate": 20151203,
+        "mortgageRate": 3.93
+    },
+    {
+        "observationDate": 20151231,
+        "mortgageRate": 4.01
+    },
+    {
+        "observationDate": 20160107,
+        "mortgageRate": 3.79
+    },
+    {
+        "observationDate": 20160128,
+        "mortgageRate": 3.97
+    },
+    {
+        "observationDate": 20160204,
+        "mortgageRate": 3.62
+    },
+    {
+        "observationDate": 20160225,
+        "mortgageRate": 3.72
+    },
+    {
+        "observationDate": 20160303,
+        "mortgageRate": 3.64
+    },
+    {
+        "observationDate": 20160331,
+        "mortgageRate": 3.73
+    },
+    {
+        "observationDate": 20160407,
+        "mortgageRate": 3.58
+    },
+    {
+        "observationDate": 20160428,
+        "mortgageRate": 3.66
+    },
+    {
+        "observationDate": 20160505,
+        "mortgageRate": 3.57
+    },
+    {
+        "observationDate": 20160526,
+        "mortgageRate": 3.64
+    },
+    {
+        "observationDate": 20160602,
+        "mortgageRate": 3.48
+    },
+    {
+        "observationDate": 20160630,
+        "mortgageRate": 3.66
+    },
+    {
+        "observationDate": 20160707,
+        "mortgageRate": 3.41
+    },
+    {
+        "observationDate": 20160728,
+        "mortgageRate": 3.48
+    },
+    {
+        "observationDate": 20160804,
+        "mortgageRate": 3.43
+    },
+    {
+        "observationDate": 20160818,
+        "mortgageRate": 3.45
+    },
+    {
+        "observationDate": 20160901,
+        "mortgageRate": 3.42
+    },
+    {
+        "observationDate": 20160929,
+        "mortgageRate": 3.5
+    },
+    {
+        "observationDate": 20161006,
+        "mortgageRate": 3.42
+    },
+    {
+        "observationDate": 20161027,
+        "mortgageRate": 3.52
+    },
+    {
+        "observationDate": 20161103,
+        "mortgageRate": 3.54
+    },
+    {
+        "observationDate": 20161123,
+        "mortgageRate": 4.03
+    },
+    {
+        "observationDate": 20161201,
+        "mortgageRate": 4.08
+    },
+    {
+        "observationDate": 20161229,
+        "mortgageRate": 4.32
+    },
+    {
+        "observationDate": 20170105,
+        "mortgageRate": 4.09
+    },
+    {
+        "observationDate": 20170126,
+        "mortgageRate": 4.2
+    },
+    {
+        "observationDate": 20170202,
+        "mortgageRate": 4.15
+    },
+    {
+        "observationDate": 20170223,
+        "mortgageRate": 4.19
+    },
+    {
+        "observationDate": 20170302,
+        "mortgageRate": 4.1
+    },
+    {
+        "observationDate": 20170330,
+        "mortgageRate": 4.3
+    },
+    {
+        "observationDate": 20170406,
+        "mortgageRate": 3.97
+    },
+    {
+        "observationDate": 20170427,
+        "mortgageRate": 4.1
+    },
+    {
+        "observationDate": 20170504,
+        "mortgageRate": 3.95
+    },
+    {
+        "observationDate": 20170525,
+        "mortgageRate": 4.05
+    },
+    {
+        "observationDate": 20170601,
+        "mortgageRate": 3.88
+    },
+    {
+        "observationDate": 20170629,
+        "mortgageRate": 3.94
+    },
+    {
+        "observationDate": 20170706,
+        "mortgageRate": 3.92
+    },
+    {
+        "observationDate": 20170727,
+        "mortgageRate": 4.03
+    },
+    {
+        "observationDate": 20170803,
+        "mortgageRate": 3.82
+    },
+    {
+        "observationDate": 20170831,
+        "mortgageRate": 3.93
+    },
+    {
+        "observationDate": 20170907,
+        "mortgageRate": 3.78
+    },
+    {
+        "observationDate": 20170928,
+        "mortgageRate": 3.83
+    },
+    {
+        "observationDate": 20171005,
+        "mortgageRate": 3.85
+    },
+    {
+        "observationDate": 20171026,
+        "mortgageRate": 3.94
+    },
+    {
+        "observationDate": 20171102,
+        "mortgageRate": 3.9
+    },
+    {
+        "observationDate": 20171130,
+        "mortgageRate": 3.95
+    },
+    {
+        "observationDate": 20171207,
+        "mortgageRate": 3.93
+    },
+    {
+        "observationDate": 20171228,
+        "mortgageRate": 3.99
+    },
+    {
+        "observationDate": 20180104,
+        "mortgageRate": 3.95
+    },
+    {
+        "observationDate": 20180125,
+        "mortgageRate": 4.15
+    },
+    {
+        "observationDate": 20180201,
+        "mortgageRate": 4.22
+    },
+    {
+        "observationDate": 20180222,
+        "mortgageRate": 4.4
+    },
+    {
+        "observationDate": 20180301,
+        "mortgageRate": 4.43
+    },
+    {
+        "observationDate": 20180329,
+        "mortgageRate": 4.46
+    },
+    {
+        "observationDate": 20180405,
+        "mortgageRate": 4.4
+    },
+    {
+        "observationDate": 20180426,
+        "mortgageRate": 4.58
+    },
+    {
+        "observationDate": 20180503,
+        "mortgageRate": 4.55
+    },
+    {
+        "observationDate": 20180531,
+        "mortgageRate": 4.66
+    },
+    {
+        "observationDate": 20180607,
+        "mortgageRate": 4.54
+    },
+    {
+        "observationDate": 20180628,
+        "mortgageRate": 4.62
+    },
+    {
+        "observationDate": 20180705,
+        "mortgageRate": 4.52
+    },
+    {
+        "observationDate": 20180726,
+        "mortgageRate": 4.54
+    },
+    {
+        "observationDate": 20180802,
+        "mortgageRate": 4.51
+    },
+    {
+        "observationDate": 20180830,
+        "mortgageRate": 4.6
+    },
+    {
+        "observationDate": 20180906,
+        "mortgageRate": 4.54
+    },
+    {
+        "observationDate": 20180927,
+        "mortgageRate": 4.72
+    },
+    {
+        "observationDate": 20181004,
+        "mortgageRate": 4.71
+    },
+    {
+        "observationDate": 20181025,
+        "mortgageRate": 4.9
+    },
+    {
+        "observationDate": 20181101,
+        "mortgageRate": 4.81
+    },
+    {
+        "observationDate": 20181129,
+        "mortgageRate": 4.94
+    },
+    {
+        "observationDate": 20181206,
+        "mortgageRate": 4.55
+    },
+    {
+        "observationDate": 20181227,
+        "mortgageRate": 4.75
+    },
+    {
+        "observationDate": 20190103,
+        "mortgageRate": 4.45
+    },
+    {
+        "observationDate": 20190131,
+        "mortgageRate": 4.51
+    },
+    {
+        "observationDate": 20190207,
+        "mortgageRate": 4.35
+    },
+    {
+        "observationDate": 20190228,
+        "mortgageRate": 4.41
+    },
+    {
+        "observationDate": 20190307,
+        "mortgageRate": 4.06
+    },
+    {
+        "observationDate": 20190328,
+        "mortgageRate": 4.41
+    },
+    {
+        "observationDate": 20190404,
+        "mortgageRate": 4.08
+    },
+    {
+        "observationDate": 20190425,
+        "mortgageRate": 4.2
+    },
+    {
+        "observationDate": 20190502,
+        "mortgageRate": 3.99
+    },
+    {
+        "observationDate": 20190530,
+        "mortgageRate": 4.14
+    },
+    {
+        "observationDate": 20190606,
+        "mortgageRate": 3.73
+    },
+    {
+        "observationDate": 20190627,
+        "mortgageRate": 3.84
+    },
+    {
+        "observationDate": 20190703,
+        "mortgageRate": 3.75
+    },
+    {
+        "observationDate": 20190725,
+        "mortgageRate": 3.81
+    },
+    {
+        "observationDate": 20190801,
+        "mortgageRate": 3.55
+    },
+    {
+        "observationDate": 20190829,
+        "mortgageRate": 3.75
+    },
+    {
+        "observationDate": 20190905,
+        "mortgageRate": 3.49
+    },
+    {
+        "observationDate": 20190926,
+        "mortgageRate": 3.73
+    },
+    {
+        "observationDate": 20191003,
+        "mortgageRate": 3.57
+    },
+    {
+        "observationDate": 20191031,
+        "mortgageRate": 3.78
+    },
+    {
+        "observationDate": 20191107,
+        "mortgageRate": 3.66
+    },
+    {
+        "observationDate": 20191127,
+        "mortgageRate": 3.75
+    },
+    {
+        "observationDate": 20191205,
+        "mortgageRate": 3.68
+    },
+    {
+        "observationDate": 20191226,
+        "mortgageRate": 3.74
+    },
+    {
+        "observationDate": 20200102,
+        "mortgageRate": 3.51
+    },
+    {
+        "observationDate": 20200130,
+        "mortgageRate": 3.72
+    },
+    {
+        "observationDate": 20200206,
+        "mortgageRate": 3.45
+    },
+    {
+        "observationDate": 20200227,
+        "mortgageRate": 3.49
+    },
+    {
+        "observationDate": 20200305,
+        "mortgageRate": 3.29
+    },
+    {
+        "observationDate": 20200326,
+        "mortgageRate": 3.65
+    },
+    {
+        "observationDate": 20200402,
+        "mortgageRate": 3.23
+    },
+    {
+        "observationDate": 20200430,
+        "mortgageRate": 3.33
+    },
+    {
+        "observationDate": 20200507,
+        "mortgageRate": 3.15
+    },
+    {
+        "observationDate": 20200528,
+        "mortgageRate": 3.28
+    },
+    {
+        "observationDate": 20200604,
+        "mortgageRate": 3.13
+    },
+    {
+        "observationDate": 20200625,
+        "mortgageRate": 3.21
+    },
+    {
+        "observationDate": 20200702,
+        "mortgageRate": 2.98
+    },
+    {
+        "observationDate": 20200730,
+        "mortgageRate": 3.07
+    },
+    {
+        "observationDate": 20200806,
+        "mortgageRate": 2.88
+    },
+    {
+        "observationDate": 20200827,
+        "mortgageRate": 2.99
+    },
+    {
+        "observationDate": 20200903,
+        "mortgageRate": 2.86
+    },
+    {
+        "observationDate": 20200924,
+        "mortgageRate": 2.93
+    },
+    {
+        "observationDate": 20201001,
+        "mortgageRate": 2.8
+    },
+    {
+        "observationDate": 20201029,
+        "mortgageRate": 2.88
+    },
+    {
+        "observationDate": 20201105,
+        "mortgageRate": 2.72
+    },
+    {
+        "observationDate": 20201125,
+        "mortgageRate": 2.84
+    },
+    {
+        "observationDate": 20201203,
+        "mortgageRate": 2.66
+    },
+    {
+        "observationDate": 20201231,
+        "mortgageRate": 2.71
+    },
+    {
+        "observationDate": 20210107,
+        "mortgageRate": 2.65
+    },
+    {
+        "observationDate": 20210128,
+        "mortgageRate": 2.79
+    },
+    {
+        "observationDate": 20210204,
+        "mortgageRate": 2.73
+    },
+    {
+        "observationDate": 20210225,
+        "mortgageRate": 2.97
+    },
+    {
+        "observationDate": 20210304,
+        "mortgageRate": 3.02
+    },
+    {
+        "observationDate": 20210325,
+        "mortgageRate": 3.17
+    },
+    {
+        "observationDate": 20210401,
+        "mortgageRate": 2.97
+    },
+    {
+        "observationDate": 20210429,
+        "mortgageRate": 3.18
+    },
+    {
+        "observationDate": 20210506,
+        "mortgageRate": 2.94
+    },
+    {
+        "observationDate": 20210527,
+        "mortgageRate": 3
+    },
+    {
+        "observationDate": 20210603,
+        "mortgageRate": 2.93
+    },
+    {
+        "observationDate": 20210624,
+        "mortgageRate": 3.02
+    },
+    {
+        "observationDate": 20210701,
+        "mortgageRate": 2.78
+    },
+    {
+        "observationDate": 20210729,
+        "mortgageRate": 2.98
+    },
+    {
+        "observationDate": 20210805,
+        "mortgageRate": 2.77
+    },
+    {
+        "observationDate": 20210826,
+        "mortgageRate": 2.87
+    },
+    {
+        "observationDate": 20210902,
+        "mortgageRate": 2.86
+    },
+    {
+        "observationDate": 20210930,
+        "mortgageRate": 3.01
+    },
+    {
+        "observationDate": 20211007,
+        "mortgageRate": 2.99
+    },
+    {
+        "observationDate": 20211028,
+        "mortgageRate": 3.14
+    },
+    {
+        "observationDate": 20211104,
+        "mortgageRate": 2.98
+    },
+    {
+        "observationDate": 20211124,
+        "mortgageRate": 3.1
+    },
+    {
+        "observationDate": 20211202,
+        "mortgageRate": 3.05
+    },
+    {
+        "observationDate": 20211230,
+        "mortgageRate": 3.12
+    },
+    {
+        "observationDate": 20220106,
+        "mortgageRate": 3.22
+    },
+    {
+        "observationDate": 20220127,
+        "mortgageRate": 3.56
+    },
+    {
+        "observationDate": 20220203,
+        "mortgageRate": 3.55
+    },
+    {
+        "observationDate": 20220224,
+        "mortgageRate": 3.92
+    },
+    {
+        "observationDate": 20220303,
+        "mortgageRate": 3.76
+    },
+    {
+        "observationDate": 20220331,
+        "mortgageRate": 4.67
+    },
+    {
+        "observationDate": 20220407,
+        "mortgageRate": 4.72
+    },
+    {
+        "observationDate": 20220428,
+        "mortgageRate": 5.11
+    },
+    {
+        "observationDate": 20220505,
+        "mortgageRate": 5.1
+    },
+    {
+        "observationDate": 20220526,
+        "mortgageRate": 5.3
+    },
+    {
+        "observationDate": 20220602,
+        "mortgageRate": 5.09
+    },
+    {
+        "observationDate": 20220630,
+        "mortgageRate": 5.81
+    },
+    {
+        "observationDate": 20220707,
+        "mortgageRate": 5.3
+    },
+    {
+        "observationDate": 20220728,
+        "mortgageRate": 5.54
+    },
+    {
+        "observationDate": 20220804,
+        "mortgageRate": 4.99
+    },
+    {
+        "observationDate": 20220825,
+        "mortgageRate": 5.55
+    },
+    {
+        "observationDate": 20220901,
+        "mortgageRate": 5.66
+    },
+    {
+        "observationDate": 20220929,
+        "mortgageRate": 6.7
+    },
+    {
+        "observationDate": 20221006,
+        "mortgageRate": 6.66
+    },
+    {
+        "observationDate": 20221027,
+        "mortgageRate": 7.08
+    },
+    {
+        "observationDate": 20221103,
+        "mortgageRate": 6.58
+    },
+    {
+        "observationDate": 20221123,
+        "mortgageRate": 7.08
+    },
+    {
+        "observationDate": 20221201,
+        "mortgageRate": 6.27
+    },
+    {
+        "observationDate": 20221229,
+        "mortgageRate": 6.49
+    },
+    {
+        "observationDate": 20230105,
+        "mortgageRate": 6.13
+    },
+    {
+        "observationDate": 20230126,
+        "mortgageRate": 6.48
+    },
+    {
+        "observationDate": 20230202,
+        "mortgageRate": 6.09
+    },
+    {
+        "observationDate": 20230223,
+        "mortgageRate": 6.5
+    },
+    {
+        "observationDate": 20230302,
+        "mortgageRate": 6.32
+    },
+    {
+        "observationDate": 20230330,
+        "mortgageRate": 6.73
+    },
+    {
+        "observationDate": 20230406,
+        "mortgageRate": 6.27
+    },
+    {
+        "observationDate": 20230427,
+        "mortgageRate": 6.43
+    },
+    {
+        "observationDate": 20230504,
+        "mortgageRate": 6.35
+    },
+    {
+        "observationDate": 20230525,
+        "mortgageRate": 6.57
+    },
+    {
+        "observationDate": 20230601,
+        "mortgageRate": 6.67
+    },
+    {
+        "observationDate": 20230629,
+        "mortgageRate": 6.79
+    },
+    {
+        "observationDate": 20230706,
+        "mortgageRate": 6.78
+    },
+    {
+        "observationDate": 20230727,
+        "mortgageRate": 6.96
+    },
+    {
+        "observationDate": 20230803,
+        "mortgageRate": 6.9
+    },
+    {
+        "observationDate": 20230831,
+        "mortgageRate": 7.23
+    },
+    {
+        "observationDate": 20230907,
+        "mortgageRate": 7.12
+    },
+    {
+        "observationDate": 20230928,
+        "mortgageRate": 7.31
+    }
+    
+]
